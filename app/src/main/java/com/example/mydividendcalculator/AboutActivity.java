@@ -45,7 +45,7 @@ public class AboutActivity extends AppCompatActivity implements NavigationView.O
         // GitHub button click listener
         Button btnGitHub = findViewById(R.id.btnGitHub);
         btnGitHub.setOnClickListener(v -> {
-            String url = "https://github.com/yourusername/unittrust-calculator";
+            String url = "https://github.com/ShafikahNizam/DividendCalculator";
             Intent intent = new Intent(Intent.ACTION_VIEW);
             intent.setData(Uri.parse(url));
             startActivity(intent);
