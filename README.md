@@ -13,7 +13,7 @@ An Android application that calculates monthly and total dividends for unit trus
   - Year-End Total Dividend
 
 ## Dividend Formula
-Monthly Dividend = (Amount × Rate / 100) / 12
+Monthly Dividend = (Amount × Rate / 100) / 12,
 Total Dividend = Monthly Dividend × Number of Months
 
 ## Author Info
