@@ -29,3 +29,9 @@ Total Dividend = Monthly Dividend × Number of Months
 3. Enter number of months (max 12)
 4. Tap **Calculate**
 5. Result will show monthly and total dividends
+
+## GitHub Repository Link
+"https://github.com/ShafikahNizam/DividendCalculator"
+
+## YouTube URL Presentation
+https://youtu.be/m7zCVU8oudQ?si=BrjzL3JJY3szVRnq
